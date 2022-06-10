@@ -1,0 +1,7 @@
+C:\Users\KleuraIII\source\repos\TestMySUMODLL\TestMySUMODLL\bin\Debug\TestMySUMODLL.exe.config
+C:\Users\KleuraIII\source\repos\TestMySUMODLL\TestMySUMODLL\bin\Debug\TestMySUMODLL.exe
+C:\Users\KleuraIII\source\repos\TestMySUMODLL\TestMySUMODLL\bin\Debug\TestMySUMODLL.pdb
+C:\Users\KleuraIII\source\repos\TestMySUMODLL\TestMySUMODLL\obj\Debug\TestMySUMODLL.csproj.AssemblyReference.cache
+C:\Users\KleuraIII\source\repos\TestMySUMODLL\TestMySUMODLL\obj\Debug\TestMySUMODLL.csproj.CoreCompileInputs.cache
+C:\Users\KleuraIII\source\repos\TestMySUMODLL\TestMySUMODLL\obj\Debug\TestMySUMODLL.exe
+C:\Users\KleuraIII\source\repos\TestMySUMODLL\TestMySUMODLL\obj\Debug\TestMySUMODLL.pdb
